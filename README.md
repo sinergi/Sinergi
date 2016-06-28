@@ -1,5 +1,7 @@
 # ![Users](https://rawgit.com/sinergi/users/master/users-logo.svg "Users")
 
+[![Join the chat at https://gitter.im/sinergi/users](https://badges.gitter.im/sinergi/users.svg)](https://gitter.im/sinergi/users?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://api.travis-ci.org/sinergi/users.svg?branch=master)](https://travis-ci.org/sinergi/users)
 [![StyleCI](https://styleci.io/repos/)](https://styleci.io/)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sinergi/users/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sinergi/users/?branch=master)
